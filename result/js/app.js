@@ -1,0 +1,1 @@
+function hello(){console.log("hello")}function world(){console.log("world")}function another(){console.log("another")}function oneMore(){console.log("one more function from the javascript files.")}hello(),world(),another(),oneMore();
